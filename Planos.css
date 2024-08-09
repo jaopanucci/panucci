@@ -33,7 +33,7 @@
   line-height: 2;
   font-size: 1.25rem;
   width: 382px;
-  margin: 0 auto;
+  margin: 22px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -48,7 +48,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.27;
-  margin: 444px auto 0 89px;
+  margin: 267px auto 0 89px;
   padding: 14px 52px 16px 51px;
 }
 
